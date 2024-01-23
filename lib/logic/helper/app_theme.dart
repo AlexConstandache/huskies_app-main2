@@ -51,6 +51,7 @@ class AppTheme {
   static const double mediumDistance = 12;
   static const double largeDistance = 18;
   static const double lowDistance = 6;
+  //
   static const double avatarSize = 50.0;
   static const Color buttonBackgroundColor = Color.fromARGB(255, 39, 62, 73);
   static const EdgeInsets buttonPadding = EdgeInsets.symmetric(horizontal: 6, vertical: 6);
